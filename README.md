@@ -1,4 +1,4 @@
 # DSA-
 DSA Practice Questions
 <br>
-- Kadhir Anand S
+- Kadhir Anand (Striver A2Z)
